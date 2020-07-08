@@ -1,0 +1,40 @@
+.container{
+    margin-bottom: 100px;
+}
+.nav-logo, .top-banner{
+    background-color: lightblue;
+
+}
+.logo-school{
+ width: 150px;
+}
+.btn-outline-success{
+    border-radius: 5px;
+    background-color: green;
+    color: white;
+}
+ul li{
+    padding-left: 20px;
+}
+
+.orange-text{
+    color: orangered;
+}
+.green-text{
+    color: green;
+}
+.get-start{
+    color: white;
+    background-color: green;
+    border: none;
+    border-radius: 10px;
+    padding: 5px 15px;
+}
+.courses{
+    text-align: center;
+}
+.courses img{
+    width: 100px;
+    height: 100px;
+    margin-bottom: 10px;
+}
